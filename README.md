@@ -1,5 +1,9 @@
 # Cell Painting, an image-based assay for morphological profiling
 
+## Updates to the protocol
+
+See the [wiki](https://github.com/CellProfiler/Cell-Painting/wiki) for an up-to-date version of the Cell Painting protocol.
+
 ## Abstract 
 
 In morphological profiling, quantitative data are extracted from microscopy images of cells; the goal is to identify biologically relevant similarities and differences among samples based on these profiles. This protocol describes the design and execution of experiments using Cell Painting, a morphological profiling assay multiplexing six fluorescent dyes imaged in five channels, to reveal eight broadly relevant cellular components or organelles. Automated image analysis software identifies individual cells and measures over 1000 morphological features (various measures of size, shape, texture, intensity, etc.) to produce a rich profile suitable for detecting subtle phenotypes. Profiles of cell populations treated with different experimental perturbations can be compared to suit many goals, such as identifying the phenotypic impact of chemical or genetic perturbations, grouping compounds and/or genes into functional pathways, and identifying signatures of disease. Cell culture and image acquisition takes 2 weeks; feature extraction and data analysis take an additional 1-2 weeks.
@@ -78,6 +82,3 @@ in (7) on the profiling dataset in (6).
 \[[ZIP](http://pubs.broadinstitute.org/bray_natprot_2016/suppl/online/profiles.zip),
 41 MB\]
 
-## Updates to the protocol
-
-See the [wiki](https://github.com/CellProfiler/Cell-Painting/wiki) for an up-to-date version of the Cell Painting protocol.
