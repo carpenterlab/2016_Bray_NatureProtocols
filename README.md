@@ -1,4 +1,4 @@
-# Cell Painting, an image-based assay for morphological profiling
+# Cell Painting, a high-content image-based assay for morphological profiling using multiplexed fluorescent dyes.
 
 ## Updates to the protocol
 
