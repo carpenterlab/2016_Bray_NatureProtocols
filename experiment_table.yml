@@ -1,5 +1,5 @@
 # To creata a markdown table, do this in R
-# install.packages(c("yaml", "tidyverse"))
+# install.packages(c("yaml", "tidyverse", "knitr"))
 # yaml::yaml.load_file("~/Desktop/cell_painting_experiments.yml") %>% purrr::map_df(function(x) x) %>% dplyr::select(-id) %>% as_data_frame() %>% knitr::kable() %>% write_lines("table.md")
 - id: rohban_elife_2017
   publication: '[Rohban et al. eLife 2017](https://elifesciences.org/content/6/e24060)'
